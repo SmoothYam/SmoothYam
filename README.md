@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ashwani Kumar Meena</h1>
+<h1 align="center">Hi, I'm Ashwani Kumar Meena</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 
-<img aligh="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1304577/screenshots/4032985/kiiwik-app-_03.gif">
+<img aligh="right" alt="coding" width="600" src="https://cdn.dribbble.com/users/1304577/screenshots/4032985/kiiwik-app-_03.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smoothyam&label=Profile%20views&color=0e75b6&style=flat" alt="smoothyam" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **ashwanimeena1234@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cBosMCbVzeDL3gbGL7b4cEV5o3DTCRE5/view?usp=sharing](https://drive.google.com/file/d/1cBosMCbVzeDL3gbGL7b4cEV5o3DTCRE5/view?usp=sharing)
+- 📄 Know about my experiences [shorturl.at/dDMS3](shorturl.at/dDMS3)
 
 - ⚡Fun Fact **More people have mobile phones than toilets.**
 
